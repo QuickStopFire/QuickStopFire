@@ -21,6 +21,9 @@
     <a href="https://github.com/QuickStopFire/Autumn-Biomes">
         <img src="./images/Projects/Autumn Biomes.png" width=300/>
     </a>
+    <a href="https://github.com/QuickStopFire/Extra-Fuel">
+        <img src="./images/Projects/Extra Fuel.png" width=300/>
+    </a>
 </p>
 
 <hr>
