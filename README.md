@@ -7,7 +7,7 @@
     <a href="https://qsfdev.bio.link/">
         <img src="./images/bio.link.png" width=50/>
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://legacy.curseforge.com/members/quickstopfire/projects">
+    <a href="https://www.curseforge.com/members/quickstopfire/projects">
         <img src="./images/CurseForge.png" width=50/>
     </a>&nbsp;&nbsp;&nbsp;
     <br><br>
@@ -19,7 +19,7 @@
 <p align="center">
     <b>Finished projects</b><br><br>
     <a href="https://github.com/QuickStopFire/Autumn-Biomes">
-        <img src="./images/Projects/Autumn Biomes.png" width=300/>
+        <img src="./images/Projects/Autumn Biomes.jpg" width=300/>
     </a>
     <a href="https://github.com/QuickStopFire/Extra-Fuel">
         <img src="./images/Projects/Extra Fuel.png" width=300/>
